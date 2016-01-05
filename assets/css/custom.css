@@ -1,0 +1,18 @@
+/*-- body --*/
+body {
+  padding-top: 70px;
+}
+/*-- navbar custom style --*/
+.navbar-default{
+    background-color: #38CC98 !important;
+}
+/*-- navbar menu link styles --*/
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .active > a:hover{
+    color: #FFF !important;
+    background-color: rgba(72, 221, 168, 1) !important;
+}
+.navbar-default .navbar-brand{
+    color: #fff !important;
+}

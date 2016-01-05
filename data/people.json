@@ -1,0 +1,32 @@
+[
+	{
+		"fname":"Jayeson",
+                "lname":"Moh",
+		"age":"27",
+		"sex":"Male"	
+	},
+	{
+		"fname":"Moki",
+                "lname":"Nick",
+		"age":"20",
+		"sex":"Male"	
+	},
+	{
+		"fname":"Vinmaya",
+                "lname":"Sri",
+		"age":"15",
+		"sex":"Female"	
+	},
+	{
+		"fname":"Harsh",
+                "lname":"Van",
+		"age":"35",
+		"sex":"Male"	
+	},
+	{
+		"fname":"Surila",
+                "lname":"Nina",
+		"age":"26",
+		"sex":"Female"	
+	}
+]

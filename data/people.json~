@@ -1,0 +1,27 @@
+[
+	{
+		"name":"Jayeson",
+		"age":"27",
+		"sex":"Male"	
+	},
+	{
+		"name":"Moki",
+		"age":"20",
+		"sex":"Male"	
+	},
+	{
+		"name":"Vinmaya",
+		"age":"15",
+		"sex":"Female"	
+	},
+	{
+		"name":"Harsh",
+		"age":"35",
+		"sex":"Male"	
+	},
+	{
+		"name":"Surila",
+		"age":"26",
+		"sex":"Female"	
+	}
+]
