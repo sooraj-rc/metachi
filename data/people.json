@@ -28,5 +28,11 @@
                 "lname":"Nina",
 		"age":"26",
 		"sex":"Female"	
+	},
+        {
+		"fname":"Max",
+                "lname":"Don",
+		"age":"19",
+		"sex":"Male"	
 	}
 ]
